@@ -777,7 +777,7 @@ div#preloader {
 /*  14.Contact Area
 /*--------------------------------*/
 
-.contact-area {
+/* .contact-area {
   height: auto;
   width: 100%;
 }
@@ -885,7 +885,7 @@ div#preloader {
 #google-map {
   height: 370px;
   margin-bottom: 20px;
-}
+} */
 
 /*----------------------------------------*/
 
@@ -946,7 +946,7 @@ div#preloader {
 .flicker-img>a {
   float: left;
   padding: 1px;
-  width: 100%;
+  width: 50%;
 }
 
 .footer-icons {
